@@ -21,7 +21,7 @@
 
 2. Клонируем репозиторий и устанавливаем необходимые модули:
 	
-	    git clone https://github.com/fuad00/viktorinabot && cd viktorinabot && pip3 install -r requirements.txt
+	    git clone https://github.com/freeleague/viktorinabot && cd viktorinabot && pip3 install -r requirements.txt
 	
 3. Редактируем переменную `bot_token` в файле `bot.py` на 9 строке.
 
